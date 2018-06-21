@@ -16,4 +16,4 @@ It's still missing many cool features, which may or may not be implemented in th
 
 In its current state Catalogg is not very useful, as it doesn't have any file writing/reading capabilities, thus making any data entered into it usable only during the the app's run time. Once the app is closed - the data is gone.
 
-*- Create, Read, Update, Destroy
+*- Create, Read, Update, Delete
