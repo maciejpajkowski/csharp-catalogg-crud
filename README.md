@@ -1,6 +1,6 @@
 # csharp-catalogg-crud
 
-**CATALOGG** is a very simple CRUD-type console application for basic data management. It is used to store basic information about video games, such as their title, genre and developer.
+**CATALOGG** is a very simple CRUD*-type console application for basic data management. It is used to store basic information about video games, such as their title, genre and developer.
 
 The application has been built entirely for the learning purposes and it should not be treated as a fully-fledged product, which will change your life. It probably won't.
 
